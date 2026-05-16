@@ -50,7 +50,7 @@ Used for:
 
 ## Why I'm requesting the EasyDraw V2 Kit
  
-My original BOM uses 28BYJ-48 steppers which I already have, but honestly they have bad torque and a lot of backlash — not great for writing cleanly. The EasyDraw V2 kit has NEMA 17 motors with a proper CNC shield, ABS printed parts (not brittle PLA), and a tested 24×30cm draw area which is enough to cover A4 size paper. Building around a solid mechanical base means I can focus on the software side — getting the handwriting style right — instead of fighting hardware issues. This kit is basically the upgrade that makes the project actually work well.
+My original BOM uses 28BYJ-48 steppers which I already have, but honestly they have bad torque and a lot of backlash not great for writing cleanly. The EasyDraw V2 kit has NEMA 17 motors with a proper CNC shield, ABS printed parts (not brittle PLA), and a tested 24×30cm draw area which is enough to cover A4 size paper. Building around a solid mechanical base means I can focus on the software side getting the handwriting style right instead of fighting hardware issues. T
 
 IMPORTANT NOTE: I have ideas to customize it even more with custom 3d printing the parts to make it look more of robots and the sole purpose to buy this as a kit is because this is my first big projects it will give me more confidence as the parts are more compataible 
 
