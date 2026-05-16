@@ -48,28 +48,34 @@ Used for:
 - Testing calibration and motion routines
 
 
+## Why I'm requesting the EasyDraw V2 Kit
+ 
+My original BOM uses 28BYJ-48 steppers which I already have, but honestly they have bad torque and a lot of backlash — not great for writing cleanly. The EasyDraw V2 kit has NEMA 17 motors with a proper CNC shield, ABS printed parts (not brittle PLA), and a tested 24×30cm draw area which is enough to cover A4 size paper. Building around a solid mechanical base means I can focus on the software side — getting the handwriting style right — instead of fighting hardware issues. This kit is basically the upgrade that makes the project actually work well.
+
+IMPORTANT NOTE: I have ideas to customize it even more with custom 3d printing the parts to make it look more of robots and the sole purpose to buy this as a kit is because this is my first big projects it will give me more confidence as the parts are more compataible 
+
+
 **BOM**
+
+## BOM – EasyDraw V2 Kit (Requesting via Macondo)
 
 | Category | Item | Qty | Cost (INR) |
 |---|---|---:|---:|
-| Electronics | Arduino (Uno / compatible) | 1 | 0 |
-| Electronics | 28BYJ-48 Stepper + ULN2003 | 2 | 500 |
-| Electronics | Micro Servo (SG90) | 1 | 120 |
-| Electronics | 5V / 2A Power Supply | 1 | 300 |
-| Electronics | Jumper Wires (MM + MF) | 1 | 150 |
-| Electronics | USB / Power Cables | 1 | 150 |
-| Mechanical | 5mm Smooth Steel Rods | 6 | 600 |
-| Mechanical | GT2 Pulley (20T) | 4 | 480 |
-| Mechanical | GT2 Timing Belt (1m) | 2 | 360 |
-| Mechanical | 3D-Printed PLA Parts | 1 set | 600 |
-| Mechanical | Fasteners (nuts, bolts) | 1 set | 300 |
-| Mechanical | Bearings / Bushings | 1 set | 250 |
-| Misc | Shipping & Delivery | 1 | 430 |
-| Misc | Pens & Calibration | 1 | 540 |
-| **Total** | **Project Cost (INR)** |  | **4710** |
-| **Total** | **Approx. Cost (USD)** |  | **56.7** |
+| Full Kit | EasyDraw V2 Writing & Drawing Machine Kit (Not Assembled) | 1 | 7990 |
+| **Total** | **Project Cost (INR)** | | **7990** |
+| **Total** | **Approx. Cost (USD)** | | **~96** |
 
+**Kit includes:**
+- ABS 3D printed structural parts (CoreXY frame)
+- 2× Stepper motors + drivers
+- 1× Servo motor (pen up/down)
+- Arduino + custom CNC shield (pre-assembled & tested)
+- GT2 belts + pulleys
+- Steel rods + bearings
+- All fasteners
+- USB cable
 
+*Source: [shopmakerq.com](https://shopmakerq.com/product/2d-plotter-kit-not-assembled/) | Maximum draw area: 24×30 cm*
 
 
 
@@ -78,8 +84,6 @@ Used for:
 | |
 |---|
 | ![](https://github.com/studyhridhaan-coder/typer-robot/blob/main/Wiring%20Diagram.png?raw=true) |
-
-
 
 
 
